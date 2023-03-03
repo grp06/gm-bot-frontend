@@ -80,7 +80,7 @@ const LoadingModal = ({ loading, setLoading }) => (
             </Transition.Child>
 
             <div className="fixed inset-0 z-10 overflow-y-auto">
-                <div className="flex min-h-full items-end justify-center p-4 text-center sm:items-center sm:p-0">
+                <div className="flex min-h-full items-center justify-center p-4 text-center sm:p-0">
                     <Transition.Child
                         as={Fragment}
                         enter="ease-out duration-300"
@@ -163,7 +163,7 @@ const App = () => {
                 backgroundImage: `url('https://cdn.midjourney.com/2b2e5247-1acb-4615-926b-cd5bfeb43580/grid_0.png')`,
             }}
         >
-            <LoadingModal loading={loading} setLoading={setLoading} />
+            <LoadingModal loading={!loading} setLoading={setLoading} />
             <SuccessModal success={success} setSuccess={setSuccess} />
             <div className="absolute inset-0 bg-gray-900 opacity-20" />
             <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full sm:w-4/6">
