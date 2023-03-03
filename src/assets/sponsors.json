@@ -1,0 +1,762 @@
+[
+    {
+        "sponsorId": "9543831c-36e7-42cf-9d50-3b6255e8bf3b",
+        "orgId": "f1be0228-1257-43e2-9bbe-2320ef8ee187",
+        "name": "0x",
+        "bio": null,
+        "slug": "zero-x",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/f1be0228-1257-43e2-9bbe-2320ef8ee187/logo/logo.png"
+    },
+    {
+        "sponsorId": "f4f80c51-53a8-4458-af22-cd6e14db2263",
+        "orgId": "a7533c78-0b7a-4fb0-837f-0a8151070861",
+        "name": "1inch",
+        "bio": null,
+        "slug": "1inch",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/a7533c78-0b7a-4fb0-837f-0a8151070861/logo/logo.png"
+    },
+    {
+        "sponsorId": "474b1c20-83f4-4806-a22a-2d36ae098e42",
+        "orgId": "ebbe2894-1bf3-419b-9430-db440c663994",
+        "name": "Aragon",
+        "bio": "Aragon builds flexible and secure tools for creating, managing, and scaling DAOs, allowing everyone to experiment with governance at the speed of software.",
+        "slug": "aragon",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/ebbe2894-1bf3-419b-9430-db440c663994/logo/logo.png"
+    },
+    {
+        "sponsorId": "1f39c6ec-c328-4bcf-b4c0-1378fb6b8ca6",
+        "orgId": "9c2efb00-74c0-4292-ba31-5a03f0f5c878",
+        "name": "Arbitrary Execution",
+        "bio": null,
+        "slug": "arbitrary-exec",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/9c2efb00-74c0-4292-ba31-5a03f0f5c878/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "01bb3502-633f-41b1-bb82-b394179d04cf",
+        "orgId": "91c622c1-23dd-48b4-a1ed-2866f3c85f36",
+        "name": "Arbitrum",
+        "bio": null,
+        "slug": "arbitrum",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/91c622c1-23dd-48b4-a1ed-2866f3c85f36/logo/logo.png"
+    },
+    {
+        "sponsorId": "d3b3f128-03af-4fa1-9825-6c04aabf552d",
+        "orgId": "7ea966b8-e6db-4c14-88f5-724dbb629e22",
+        "name": "Axelar",
+        "bio": "Axelar delivers secure interchain communication. That means dApp users can interact with any asset, any application, on any chain, with one click. You can think of it as Stripe for Web3.",
+        "slug": "axelar",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/7ea966b8-e6db-4c14-88f5-724dbb629e22/logo/logo.png"
+    },
+    {
+        "sponsorId": "353b96ce-c2eb-4663-ba4f-ba74b2996832",
+        "orgId": "ee154649-8560-486c-bba7-d884f2dd0eff",
+        "name": "Blockdaemon",
+        "bio": null,
+        "slug": "blockdaemon",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/ee154649-8560-486c-bba7-d884f2dd0eff/logo/logo.png"
+    },
+    {
+        "sponsorId": "2e8a09c4-1b4b-4333-ba5c-dd8eabb14aff",
+        "orgId": "5bd105e0-47eb-42ac-ac16-7e5de79f64b6",
+        "name": "Blocknative",
+        "bio": null,
+        "slug": "blocknative",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/5bd105e0-47eb-42ac-ac16-7e5de79f64b6/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "683ff51a-a2f7-4d36-b969-23ba5afa892c",
+        "orgId": "94bf0f2e-3551-4e5a-aeda-3467d2ae9700",
+        "name": "BNB Chain",
+        "bio": "Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3.  \n",
+        "slug": "bnb-chain",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/94bf0f2e-3551-4e5a-aeda-3467d2ae9700/logo/logo.png"
+    },
+    {
+        "sponsorId": "fc3c85b8-4bf7-46a0-bf51-07653d168548",
+        "orgId": "5a7c46e4-1e02-47c0-a72e-b48cfcf88afd",
+        "name": "Cartesi",
+        "bio": null,
+        "slug": "cartesi",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/5a7c46e4-1e02-47c0-a72e-b48cfcf88afd/logo/logo.png"
+    },
+    {
+        "sponsorId": "26b1f861-bea4-487f-8725-1b19899b80e1",
+        "orgId": "257765ff-7f71-419d-b683-98dbcac0c014",
+        "name": "Ceramic",
+        "bio": null,
+        "slug": "ceramic",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/257765ff-7f71-419d-b683-98dbcac0c014/logo/logo.png"
+    },
+    {
+        "sponsorId": "b5a212da-b8d5-430e-8580-f5370a088aac",
+        "orgId": "b412b2a8-8d2c-4f2d-b5c6-297fc08d06a0",
+        "name": "Certora",
+        "bio": null,
+        "slug": "Certora",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/b412b2a8-8d2c-4f2d-b5c6-297fc08d06a0/logo/logo.png"
+    },
+    {
+        "sponsorId": "d2b05e7f-3400-4de5-a65d-472dcff5de9d",
+        "orgId": "ee8ec41b-b00f-463e-8dfe-e4d0994e2fb8",
+        "name": "Chainlink",
+        "bio": null,
+        "slug": "chainlink",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/ee8ec41b-b00f-463e-8dfe-e4d0994e2fb8/logo/logo.png"
+    },
+    {
+        "sponsorId": "98419828-35a4-41b3-b9a2-d33780beaf17",
+        "orgId": "ccf0d6a4-d144-4d6a-966b-53b0cf021b63",
+        "name": "Circle",
+        "bio": null,
+        "slug": "circle",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/ccf0d6a4-d144-4d6a-966b-53b0cf021b63/logo/logo.png"
+    },
+    {
+        "sponsorId": "21afba65-e6ab-4c94-853c-f98e403fbfb7",
+        "orgId": "1e533dba-e567-4b85-9f81-edafae03a30e",
+        "name": "Coinbase",
+        "bio": null,
+        "slug": "coinbase",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/1e533dba-e567-4b85-9f81-edafae03a30e/logo/logo.png"
+    },
+    {
+        "sponsorId": "852f5c4a-db5b-4ecf-9695-05414e5ee9dc",
+        "orgId": "1a5d0516-8bc7-4259-84c2-a453e467f4e1",
+        "name": "Collab.Land",
+        "bio": null,
+        "slug": "collab-land",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/1a5d0516-8bc7-4259-84c2-a453e467f4e1/logo/logo.png"
+    },
+    {
+        "sponsorId": "3d044627-4db1-4de1-8b91-e01436977c35",
+        "orgId": "be93dd04-b55f-40fa-8065-4e6d03c59d5c",
+        "name": "Consensys",
+        "bio": null,
+        "slug": "consensys",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/be93dd04-b55f-40fa-8065-4e6d03c59d5c/logo/logo.png"
+    },
+    {
+        "sponsorId": "4e78aa80-9c75-4530-b246-32f91f7ef84b",
+        "orgId": "8c6ef2a0-681b-4a9f-9078-d32751934328",
+        "name": "Covalent",
+        "bio": null,
+        "slug": "covalent",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/8c6ef2a0-681b-4a9f-9078-d32751934328/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "3e679453-913c-438d-b303-4a4a8c0b0d10",
+        "orgId": "8ed71957-42cd-49a7-a75e-fd888777f013",
+        "name": "CowSwap",
+        "bio": null,
+        "slug": "cow-swap",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/8ed71957-42cd-49a7-a75e-fd888777f013/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "a7072c57-6f65-4b9c-b041-4bc55a06e128",
+        "orgId": "81d06724-deec-435d-8caa-386d56dba894",
+        "name": "CUBE3",
+        "bio": null,
+        "slug": "cube3",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/81d06724-deec-435d-8caa-386d56dba894/logo/logo.png"
+    },
+    {
+        "sponsorId": "dd13fd92-46bd-4434-935b-4523691b4085",
+        "orgId": "8a8bb008-8cce-4a70-bb5d-330bc81eb44a",
+        "name": "CultDAO",
+        "bio": null,
+        "slug": "cult-dao",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/8a8bb008-8cce-4a70-bb5d-330bc81eb44a/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "69a5acb1-6ff8-4010-bbb3-9bdce2eebb78",
+        "orgId": "7e6d2633-d585-4c10-81c3-de298aabb5a0",
+        "name": "Cypher Wallet",
+        "bio": "Buy, sell, manage, bridge or stake crypto across 12+ Ethereum & Cosmos blockchains. Launching the world's first noncustodial crypto card soon. \n\nFor developers, we offer (1) Cypher Onboarding SDK and (2) Cypher Push notifications for any dApp. ",
+        "slug": "cypher-d",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/7e6d2633-d585-4c10-81c3-de298aabb5a0/logo/logo.png"
+    },
+    {
+        "sponsorId": "58d1046d-ed65-4541-9cc0-7306747558cd",
+        "orgId": "e70527ef-4c8c-4227-82b4-e5e455d8cf5f",
+        "name": "Dfinity",
+        "bio": "The Internet Computer (ICP) blockchain is the first “World Computer” on which fully on-chain Web3 services can be built, including demanding web social media, without need for traditional IT such as cloud computing services.",
+        "slug": "dfinity",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/e70527ef-4c8c-4227-82b4-e5e455d8cf5f/logo/logo.png"
+    },
+    {
+        "sponsorId": "8afbcaf3-8838-494a-afd7-075247db6698",
+        "orgId": "224f8e05-6863-48ba-bcef-2cd6c82ee74b",
+        "name": "DODO",
+        "bio": null,
+        "slug": "dodo",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/224f8e05-6863-48ba-bcef-2cd6c82ee74b/logo/logo.png"
+    },
+    {
+        "sponsorId": "81359e9d-0a1a-4b7f-bae1-c6bc593d2887",
+        "orgId": "e0d67316-807c-4e2d-8711-0222efd4e66a",
+        "name": "ETHStorage",
+        "bio": null,
+        "slug": "eth-storage",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/e0d67316-807c-4e2d-8711-0222efd4e66a/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "ddc4f9c0-ddb1-4ad4-a47f-d579a99560cc",
+        "orgId": "43ccf40a-ff74-4f4d-a940-856bf42f2e30",
+        "name": "Fenbushi Capital",
+        "bio": null,
+        "slug": "fenbushi-cap",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/43ccf40a-ff74-4f4d-a940-856bf42f2e30/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "51cc5b41-daa1-445d-96c8-ce292a32b973",
+        "orgId": "bfcbbc97-e830-43fc-894d-52c0852b92f7",
+        "name": "Findora",
+        "bio": null,
+        "slug": "findora",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/bfcbbc97-e830-43fc-894d-52c0852b92f7/logo/logo.png"
+    },
+    {
+        "sponsorId": "a38dab65-7382-45d2-bc1c-3bf81bf258ea",
+        "orgId": "d9502cd5-c66f-495c-9984-b43f2ea62ab0",
+        "name": "Fireblocks",
+        "bio": null,
+        "slug": "fireblocks",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/d9502cd5-c66f-495c-9984-b43f2ea62ab0/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "5166a944-49d8-4db3-940f-6c136f470a3a",
+        "orgId": "329ed05b-f474-450c-adde-8645dad4be5a",
+        "name": "FirstBatch",
+        "bio": null,
+        "slug": "first-batch",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/329ed05b-f474-450c-adde-8645dad4be5a/logo/logo.png"
+    },
+    {
+        "sponsorId": "c90e1f50-412e-4e47-9221-c5d6fa683145",
+        "orgId": "b94030ef-e65a-4c31-bc31-03ae6f9cdb0c",
+        "name": "Fluence",
+        "bio": "A decentralized serverless platform & computing marketplace ",
+        "slug": "fluence",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/b94030ef-e65a-4c31-bc31-03ae6f9cdb0c/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "f2f3434e-3977-4dce-9e76-3b27d793878c",
+        "orgId": "f3018e77-174b-4197-86a7-fb90f5f1aa55",
+        "name": "Foundry",
+        "bio": null,
+        "slug": "foundry",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/f3018e77-174b-4197-86a7-fb90f5f1aa55/logo/logo.png"
+    },
+    {
+        "sponsorId": "a5d3fdbf-10ea-4096-9119-2fc4c2746721",
+        "orgId": "cf4faee5-1f6f-45c2-b055-3f00ea8a6149",
+        "name": "Fuel Labs",
+        "bio": null,
+        "slug": "fuel-labs",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/cf4faee5-1f6f-45c2-b055-3f00ea8a6149/logo/logo.png"
+    },
+    {
+        "sponsorId": "08eeee31-e3f1-4f85-9d47-4019c9c8f0b8",
+        "orgId": "02a5b353-1f9b-4adf-afc7-f12415eb2d51",
+        "name": "Game7",
+        "bio": null,
+        "slug": "game7",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/02a5b353-1f9b-4adf-afc7-f12415eb2d51/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "9517aac9-b899-4a6c-8c9e-c5634b15f82b",
+        "orgId": "41a0ad7b-c35e-434c-87ea-4f3775dfe4b6",
+        "name": "Giveth",
+        "bio": null,
+        "slug": "giveth",
+        "logoUrl": null
+    },
+    {
+        "sponsorId": "d53dce6c-8ed6-4591-b28b-ab557cb66ad9",
+        "orgId": "8c98320b-ee3c-4f46-a48f-345a9d4c3128",
+        "name": "Go+",
+        "bio": null,
+        "slug": "go-plus",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/8c98320b-ee3c-4f46-a48f-345a9d4c3128/logo/logo.png"
+    },
+    {
+        "sponsorId": "f4ed1db6-9cd3-4ed7-b02d-99083b21bcef",
+        "orgId": "b41ce6f8-48b7-4409-9717-ea25d00d8907",
+        "name": "Halborn",
+        "bio": null,
+        "slug": "halborn",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/b41ce6f8-48b7-4409-9717-ea25d00d8907/logo/logo.png"
+    },
+    {
+        "sponsorId": "82c576bf-386f-4a07-b579-73df9b910c73",
+        "orgId": "1d598e0c-31fe-4a82-aa1e-25310be61cd6",
+        "name": "Hedera Hashgraph",
+        "bio": null,
+        "slug": "hedera",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/1d598e0c-31fe-4a82-aa1e-25310be61cd6/logo/logo.png"
+    },
+    {
+        "sponsorId": "364f47b3-41b0-48f3-990e-7b5506dd0b84",
+        "orgId": "746207cc-d120-4b38-afb7-978e3c1e2e6d",
+        "name": "Huma",
+        "bio": null,
+        "slug": "huma",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/746207cc-d120-4b38-afb7-978e3c1e2e6d/logo/logo.png"
+    },
+    {
+        "sponsorId": "c00d5bcb-a41a-417d-a8ad-0d5f958fe7ae",
+        "orgId": "6f78e8df-72f0-4069-99a7-c592bd47a92b",
+        "name": "InfStones",
+        "bio": null,
+        "slug": "inf-stones",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/6f78e8df-72f0-4069-99a7-c592bd47a92b/logo/logo.png"
+    },
+    {
+        "sponsorId": "05053e1a-9ecb-46e4-a99c-71835a71b90f",
+        "orgId": "a7449e8f-3311-4fb2-b0b3-567170b65104",
+        "name": "Infura",
+        "bio": null,
+        "slug": "infura",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/a7449e8f-3311-4fb2-b0b3-567170b65104/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "8c2f9ffa-4eec-46eb-a324-b2eedee1d30a",
+        "orgId": "5090bd8d-75ba-4624-b4e0-e6374fb15be7",
+        "name": "Intu",
+        "bio": "Here at INTU, we're convinced that Web3 requires better infrastructure to enable better user experiences, without compromising on core Web3 values like decentralization, self-custody, and transparency.",
+        "slug": "intu",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/5090bd8d-75ba-4624-b4e0-e6374fb15be7/logo/logo.png"
+    },
+    {
+        "sponsorId": "bfcab64e-7f1b-4a42-8b39-bbcfc9734e24",
+        "orgId": "50624e27-d42b-4a14-9aff-74c30023be5f",
+        "name": "Lens Protocol",
+        "bio": null,
+        "slug": "lens-protocol",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/50624e27-d42b-4a14-9aff-74c30023be5f/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "28b03bd4-bfa0-48d7-9f9f-c564ecd02e98",
+        "orgId": "35a8218f-3917-4a9e-ad4f-9c5d3569d6e8",
+        "name": "Liquality",
+        "bio": "Liquality has proven its ongoing commitment to web3 with the production and public use of an open-source, cross-chain, interoperable wallet extension, and built a web3 SDK’s for developers.",
+        "slug": "liquality",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/35a8218f-3917-4a9e-ad4f-9c5d3569d6e8/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "dd565371-45b7-4ea7-b1ee-bb297b36e4b8",
+        "orgId": "c3c59f30-a57f-4778-bd85-a1e095451f06",
+        "name": "Livepeer",
+        "bio": null,
+        "slug": "livepeer",
+        "logoUrl": null
+    },
+    {
+        "sponsorId": "031731c4-1f82-43c2-bf01-59ed0ff39d96",
+        "orgId": "fcbd2d58-1d1b-4f4f-bc49-8710d04f254d",
+        "name": "Magic",
+        "bio": null,
+        "slug": "magic",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/fcbd2d58-1d1b-4f4f-bc49-8710d04f254d/logo/logo.png"
+    },
+    {
+        "sponsorId": "f1d12379-cb7a-4032-84cb-e58248ef0971",
+        "orgId": "5d0df6ba-fa3a-49d3-b06a-f0eab124fcf4",
+        "name": "Mantle",
+        "bio": null,
+        "slug": "mantle",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/5d0df6ba-fa3a-49d3-b06a-f0eab124fcf4/logo/logo.png"
+    },
+    {
+        "sponsorId": "b0f1d173-ce6b-4ac4-b524-1e0555f73d19",
+        "orgId": "a301ff9b-d07c-419b-9bbb-6da09bd7423a",
+        "name": "MetaMask Snaps",
+        "bio": null,
+        "slug": "metamask",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/a301ff9b-d07c-419b-9bbb-6da09bd7423a/logo/logo.png"
+    },
+    {
+        "sponsorId": "3cf12c42-d09c-48da-9881-c30a10912011",
+        "orgId": "ca76af8c-3952-410e-bfe7-f8bb5b66d45b",
+        "name": "Metis",
+        "bio": "Metis is a scaling and user friendly platform built to scale Ethereum and facilitate infrastructure development. The Metis Layer 2 is just the core component of the Metis Stack, followed by the Reputation Power System, and DACs.",
+        "slug": "metis",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/ca76af8c-3952-410e-bfe7-f8bb5b66d45b/logo/logo.png"
+    },
+    {
+        "sponsorId": "34f2899a-8280-4f94-9013-79cdb0da42a4",
+        "orgId": "7e5a93ab-557d-46f1-94df-945ed3ca5afa",
+        "name": "Metrika",
+        "bio": null,
+        "slug": "metrika",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/7e5a93ab-557d-46f1-94df-945ed3ca5afa/logo/logo.png"
+    },
+    {
+        "sponsorId": "fd5e5fcf-464e-4e33-91db-824a5e4b8635",
+        "orgId": "2760b058-eabf-4495-95db-dfb94038fe35",
+        "name": "Moonbeam",
+        "bio": null,
+        "slug": "moonbeam",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/2760b058-eabf-4495-95db-dfb94038fe35/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "cf996afe-78fa-4957-88d5-776d9748c830",
+        "orgId": "62395eb2-a518-45ce-9941-fb656151c8d0",
+        "name": "Muverse",
+        "bio": null,
+        "slug": "muverse",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/62395eb2-a518-45ce-9941-fb656151c8d0/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "957fe18c-f7be-4920-8468-7e7ae0bfaf93",
+        "orgId": "5978aeef-1700-43e2-8df7-5f6706f410e2",
+        "name": "NEAR",
+        "bio": null,
+        "slug": "near",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/5978aeef-1700-43e2-8df7-5f6706f410e2/logo/logo.png"
+    },
+    {
+        "sponsorId": "c5b5a5c1-4682-4962-bf3f-7ee7ff44a39a",
+        "orgId": "e8b33884-1603-454a-8624-ca75069412b6",
+        "name": "Neon Labs",
+        "bio": null,
+        "slug": "neon-labs",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/e8b33884-1603-454a-8624-ca75069412b6/logo/logo.png"
+    },
+    {
+        "sponsorId": "396ceb81-3a3c-4809-9be3-54d0ee0a5bc6",
+        "orgId": "084d591e-8c10-4d8e-b3cb-7e8d2c9f006e",
+        "name": "Nucleo",
+        "bio": null,
+        "slug": "nucleo",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/084d591e-8c10-4d8e-b3cb-7e8d2c9f006e/logo/logo.png"
+    },
+    {
+        "sponsorId": "111baa3b-290c-4648-b54c-b597367a99e9",
+        "orgId": "3695dbca-0343-4969-8c04-b3c94fd410ac",
+        "name": "Oasis App",
+        "bio": null,
+        "slug": "oasis-app",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/3695dbca-0343-4969-8c04-b3c94fd410ac/logo/logo.png"
+    },
+    {
+        "sponsorId": "8445f720-09a9-40a6-8fa5-72bfeaaf0be6",
+        "orgId": "a7d9bd8a-d6c5-4616-a0fe-b11899adcfd4",
+        "name": "OKX",
+        "bio": null,
+        "slug": "okx",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/a7d9bd8a-d6c5-4616-a0fe-b11899adcfd4/logo/logo.png"
+    },
+    {
+        "sponsorId": "0dd118bd-8387-4930-8102-763a1234b620",
+        "orgId": "9de3e7ab-ed8e-4814-9048-46e3a1a7b5a1",
+        "name": "Open Zeppelin",
+        "bio": null,
+        "slug": "open-zeppelin",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/9de3e7ab-ed8e-4814-9048-46e3a1a7b5a1/logo/logo.png"
+    },
+    {
+        "sponsorId": "75682835-f139-4c94-be13-e5482368c605",
+        "orgId": "23373a81-7bc9-4cc5-93b9-e50994957c1f",
+        "name": "OPLabs",
+        "bio": null,
+        "slug": "op-labs",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/23373a81-7bc9-4cc5-93b9-e50994957c1f/logo/logo.png"
+    },
+    {
+        "sponsorId": "14f7f61c-0866-4b1d-89ca-ef263c9a0193",
+        "orgId": "2d73fd41-3f8f-404b-a273-299ffb6f02b1",
+        "name": "Opolis",
+        "bio": null,
+        "slug": "opolis",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/2d73fd41-3f8f-404b-a273-299ffb6f02b1/logo/logo.png"
+    },
+    {
+        "sponsorId": "778bda95-452b-49c9-b271-66cd25efd129",
+        "orgId": "9525bcb2-73c8-4d52-8230-93595b61a406",
+        "name": "Orchid",
+        "bio": null,
+        "slug": "orchid",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/9525bcb2-73c8-4d52-8230-93595b61a406/logo/logo.png"
+    },
+    {
+        "sponsorId": "e9a8cd57-d7f8-489b-988e-0f9a2031cb1e",
+        "orgId": "30a310c1-fb6e-4a82-b9d0-818af9ac5845",
+        "name": "Parsiq",
+        "bio": null,
+        "slug": "parsiq",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/30a310c1-fb6e-4a82-b9d0-818af9ac5845/logo/logo.png"
+    },
+    {
+        "sponsorId": "30e374d3-ad70-487f-a808-3867335d497e",
+        "orgId": "db0a7626-d1b9-4f07-844e-27786b082235",
+        "name": "Phantom",
+        "bio": null,
+        "slug": "phantom",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/db0a7626-d1b9-4f07-844e-27786b082235/logo/logo.png"
+    },
+    {
+        "sponsorId": "09b9267a-1dd2-4fcb-91d3-99c1091a55b0",
+        "orgId": "6868b5e2-4848-4972-931f-36b351aef6fc",
+        "name": "Pokt Network",
+        "bio": null,
+        "slug": "pokt-network",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/6868b5e2-4848-4972-931f-36b351aef6fc/logo/logo.png"
+    },
+    {
+        "sponsorId": "eb24a51e-41da-46b3-99e1-1d099622bcb6",
+        "orgId": "b95697d6-6caf-42b9-87db-56d1e12def68",
+        "name": "Polkadot",
+        "bio": null,
+        "slug": "polkadot",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/b95697d6-6caf-42b9-87db-56d1e12def68/logo/logo.png"
+    },
+    {
+        "sponsorId": "341b8105-0a4b-472e-8106-96d960f88004",
+        "orgId": "0f8c6055-76e5-465c-8d05-9f23c8350e30",
+        "name": "Polygon",
+        "bio": "​Polygon Labs develops Ethereum scaling solutions for Polygon protocols. Polygon Labs engages with other ecosystem developers to help make available scalable, affordable, secure and sustainable blockchain infrastructure for Web3.",
+        "slug": "polygon",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/0f8c6055-76e5-465c-8d05-9f23c8350e30/logo/logo.png"
+    },
+    {
+        "sponsorId": "e217bd54-5712-4f33-a946-415a908275c7",
+        "orgId": "d264ef74-2c79-480c-9303-2ae6ea1d97d6",
+        "name": "Protocol Labs",
+        "bio": null,
+        "slug": "protocol-labs",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/d264ef74-2c79-480c-9303-2ae6ea1d97d6/logo/logo.png"
+    },
+    {
+        "sponsorId": "d91a5696-7103-46f1-957b-e30e8035bc9f",
+        "orgId": "ca05f988-4879-49b1-b41c-84102916b9c8",
+        "name": "Quai Network",
+        "bio": "Quai Network is a dynamic set of EVM-compatible blockchains that achieves 50,000+ TPS without compromising security or decentralization.",
+        "slug": "quai-network",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/ca05f988-4879-49b1-b41c-84102916b9c8/logo/logo.png"
+    },
+    {
+        "sponsorId": "24ccf1bc-1a0a-42e0-abc7-6b019c58381c",
+        "orgId": "27152182-dafc-4a50-ac1d-2ab14d3a0a14",
+        "name": "Quantstamp",
+        "bio": null,
+        "slug": "quantstamp",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/27152182-dafc-4a50-ac1d-2ab14d3a0a14/logo/logo.png"
+    },
+    {
+        "sponsorId": "1ccaa955-5b79-455c-b5b3-c8f928098db7",
+        "orgId": "c4b898dd-c21f-44cb-a843-940e909ed36b",
+        "name": "Quicknode",
+        "bio": null,
+        "slug": "quicknode",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/c4b898dd-c21f-44cb-a843-940e909ed36b/logo/logo.png"
+    },
+    {
+        "sponsorId": "659c6b84-1471-49d4-85fd-eebd166c9a7c",
+        "orgId": "677d3e8b-ba92-4393-ac82-f666814af38f",
+        "name": "RISC Zero",
+        "bio": null,
+        "slug": "risc-zero",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/677d3e8b-ba92-4393-ac82-f666814af38f/logo/logo.png"
+    },
+    {
+        "sponsorId": "bd924eea-4bb1-43ea-9f31-6074b5d3b83a",
+        "orgId": "d68ad6fa-cfda-493c-97a2-e6259b285313",
+        "name": "Rocketpool",
+        "bio": null,
+        "slug": "rocketpool",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/d68ad6fa-cfda-493c-97a2-e6259b285313/logo/logo.png"
+    },
+    {
+        "sponsorId": "bd3d2e5b-7591-4130-ab81-262b1d3c5810",
+        "orgId": "d7045a3e-0304-48f4-a4ea-25959a0995ef",
+        "name": "Rook",
+        "bio": null,
+        "slug": "rook",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/d7045a3e-0304-48f4-a4ea-25959a0995ef/logo/logo.png"
+    },
+    {
+        "sponsorId": "a2fa5d50-f580-4037-9c18-590e5c474869",
+        "orgId": "a3cbce5e-a955-4693-b437-66c5163ad2b3",
+        "name": "Scroll",
+        "bio": "Scroll is a ZK Rollup on Ethereum.\n\nYour EVM code, dependencies, and tooling work with Scroll out of the box. This is possible because our network is compatible with EVM bytecode and designed to feel just like developing on Ethereum.",
+        "slug": "scroll",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/a3cbce5e-a955-4693-b437-66c5163ad2b3/logo/logo.png"
+    },
+    {
+        "sponsorId": "ce030619-7653-49d6-b3c7-e66aeeed355a",
+        "orgId": "86e646d4-10ec-4eef-b0e5-9ca00d78a462",
+        "name": "SevenX",
+        "bio": null,
+        "slug": "sevenx",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/86e646d4-10ec-4eef-b0e5-9ca00d78a462/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "201079a2-5ab1-471f-ab9f-fd7e09dc660d",
+        "orgId": "e5a1602e-5e42-4c3f-8982-6d6adeed4862",
+        "name": "Spectral Finance",
+        "bio": null,
+        "slug": "spectral-fin",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/e5a1602e-5e42-4c3f-8982-6d6adeed4862/logo/logo.png"
+    },
+    {
+        "sponsorId": "83fc7b16-1b39-426f-a48b-bc28f0a45d24",
+        "orgId": "8d522fe2-15a5-48d2-b293-5e8aac76e157",
+        "name": "SpruceID",
+        "bio": null,
+        "slug": "spruce-id",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/8d522fe2-15a5-48d2-b293-5e8aac76e157/logo/logo.png"
+    },
+    {
+        "sponsorId": "ec3c8bfc-2a5a-4a36-8dbe-e1ce452dd5e9",
+        "orgId": "acf5c3b8-01ce-44bd-b62f-df9f01d1737f",
+        "name": "ssv.network",
+        "bio": "The infrastructure for building high-performance staking applications.\nA DVT network supporting client diversity, decentralization, and fault tolerance for Eth Staking. ",
+        "slug": "ssv-network",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/acf5c3b8-01ce-44bd-b62f-df9f01d1737f/logo/logo.png"
+    },
+    {
+        "sponsorId": "080a7e59-c7e4-423d-b9ee-5dcb49ec7375",
+        "orgId": "6e7229d7-4885-49a3-a82f-7b6e28fdbcae",
+        "name": "Stability Protocol",
+        "bio": null,
+        "slug": "stability",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/6e7229d7-4885-49a3-a82f-7b6e28fdbcae/logo/logo.png"
+    },
+    {
+        "sponsorId": "a8e9a593-e50d-492a-ac12-d87626764597",
+        "orgId": "023ea333-d880-4e89-b8e5-774b7c910dd2",
+        "name": "Stakewise",
+        "bio": null,
+        "slug": "stakewise",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/023ea333-d880-4e89-b8e5-774b7c910dd2/logo/logo.png"
+    },
+    {
+        "sponsorId": "a2b58db0-cab0-4f97-a33d-42af24c4162c",
+        "orgId": "527ac55c-3a82-4fc4-98c6-c26f208d0764",
+        "name": "Stellar",
+        "bio": null,
+        "slug": "stellar",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/527ac55c-3a82-4fc4-98c6-c26f208d0764/logo/logo.png"
+    },
+    {
+        "sponsorId": "65ea7c35-a9db-4b64-9b98-eb05230829e5",
+        "orgId": "29970337-dc4f-45e2-95c0-3ef579ec3f12",
+        "name": "Storj",
+        "bio": null,
+        "slug": "storj",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/29970337-dc4f-45e2-95c0-3ef579ec3f12/logo/logo.png"
+    },
+    {
+        "sponsorId": "27a8f75e-a715-418e-baca-3a36270861f0",
+        "orgId": "ddbea295-a569-4090-990c-ce8af5f781b1",
+        "name": "Swing",
+        "bio": null,
+        "slug": "swing",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/ddbea295-a569-4090-990c-ce8af5f781b1/logo/logo.png"
+    },
+    {
+        "sponsorId": "d41498b2-0397-47e9-bfa9-1e3b3bb6eafc",
+        "orgId": "5de17e7c-f727-47ed-a768-cf1e2fbb94c4",
+        "name": "Taho",
+        "bio": "Taho is the first community-owned web3 wallet. #DefendWeb3",
+        "slug": "taho",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/5de17e7c-f727-47ed-a768-cf1e2fbb94c4/logo/logo.png"
+    },
+    {
+        "sponsorId": "3163a259-10b7-4de8-9110-74d9547ff43e",
+        "orgId": "4bc28740-321a-4f24-949f-81a8ef6e64b4",
+        "name": "Tally",
+        "bio": null,
+        "slug": "tally",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/4bc28740-321a-4f24-949f-81a8ef6e64b4/logo/logo.png"
+    },
+    {
+        "sponsorId": "9049982e-7132-4214-8578-f08d1505f453",
+        "orgId": "536623d8-3a61-49b7-8f06-cc15e0e03e6c",
+        "name": "Tellor",
+        "bio": null,
+        "slug": "tellor",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/536623d8-3a61-49b7-8f06-cc15e0e03e6c/logo/logo.png"
+    },
+    {
+        "sponsorId": "a96d627d-a506-4f34-a116-088d0655b115",
+        "orgId": "d87af43a-b059-4979-8d4f-1fba5f66172f",
+        "name": "Tenderly",
+        "bio": null,
+        "slug": "tenderly",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/d87af43a-b059-4979-8d4f-1fba5f66172f/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "1eefa2d5-6db3-4c61-9272-d9c3d93103b9",
+        "orgId": "e8b605c4-b38e-4dce-a9b6-f2c327a1079a",
+        "name": "The Graph",
+        "bio": null,
+        "slug": "the-graph",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/e8b605c4-b38e-4dce-a9b6-f2c327a1079a/logo/logo.png"
+    },
+    {
+        "sponsorId": "a6ef31db-ba01-4264-9ccf-a027086bc1be",
+        "orgId": "34d46e89-0b45-418c-8d05-cd5e68a6ac2a",
+        "name": "Threshold",
+        "bio": null,
+        "slug": "threshold",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/34d46e89-0b45-418c-8d05-cd5e68a6ac2a/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "df4e4518-0c5e-48fa-ae3f-53dcdcedc5c5",
+        "orgId": "cbf0219e-bcbe-4909-965d-b18a0f972738",
+        "name": "Uniswap",
+        "bio": null,
+        "slug": "uniswap",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/cbf0219e-bcbe-4909-965d-b18a0f972738/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "7283af44-cb10-4642-a645-7829858d5dc4",
+        "orgId": "8ab61ded-3357-4f09-aa6b-a0ebe6b5a5b4",
+        "name": "Versas",
+        "bio": null,
+        "slug": "versas",
+        "logoUrl": null
+    },
+    {
+        "sponsorId": "2bf68dfb-5de2-4fc3-82ac-b64c3b5fafc3",
+        "orgId": "4b91f27c-a5dc-4f70-aeff-56fac5d974df",
+        "name": "Visit Denver",
+        "bio": null,
+        "slug": "visit-denver",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/4b91f27c-a5dc-4f70-aeff-56fac5d974df/logo/logo.png"
+    },
+    {
+        "sponsorId": "a468c358-5a12-4c84-9731-daa7708b9c16",
+        "orgId": "0453d5a3-47fa-4ded-a23d-5b7747665b9a",
+        "name": "Wallet Connect",
+        "bio": null,
+        "slug": "wallet-connect",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/0453d5a3-47fa-4ded-a23d-5b7747665b9a/logo/logo.png"
+    },
+    {
+        "sponsorId": "cd2b929b-bf66-41ac-8ab1-7f8684ccd15f",
+        "orgId": "5c6a7b3c-0179-4afe-9d8d-7767aff13f7a",
+        "name": "Web3Auth",
+        "bio": null,
+        "slug": "web3auth",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/5c6a7b3c-0179-4afe-9d8d-7767aff13f7a/logo/logo.jpg"
+    },
+    {
+        "sponsorId": "a1854905-4eed-4602-ab11-48412360a5c2",
+        "orgId": "14d16669-18b2-4542-ae78-75d9ed9bf5af",
+        "name": "zkBob",
+        "bio": null,
+        "slug": "zkbob",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/14d16669-18b2-4542-ae78-75d9ed9bf5af/logo/logo.png"
+    },
+    {
+        "sponsorId": "315e2741-45b9-4c3c-9d9d-6ea61bae74b7",
+        "orgId": "09bb6c40-660a-4f98-9a4f-cf316d090ce7",
+        "name": "zkSync",
+        "bio": "zkSync Era∎ is the zkEVM on a mission to make Ethereum mainstream.\n",
+        "slug": "zksync",
+        "logoUrl": "https://org-resources.s3.amazonaws.com/09bb6c40-660a-4f98-9a4f-cf316d090ce7/logo/logo.jpg"
+    }
+]
