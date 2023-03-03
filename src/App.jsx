@@ -126,7 +126,7 @@ const App = () => {
         try {
             setLoading(true)
             setError(false)
-            const res = await fetch('https://gm-dao.herokuapp.com//mint', {
+            const res = await fetch('https://gm-dao.herokuapp.com/mint', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
