@@ -160,7 +160,7 @@ const App = () => {
         <div
             className="relative h-screen bg-cover bg-center"
             style={{
-                backgroundImage: `url('https://cdn.midjourney.com/82bb9ee7-b7fc-4ba1-8a5d-5c7cb4e00683/grid_0.png')`,
+                backgroundImage: `url('https://cdn.midjourney.com/25774b08-1e42-4a76-af89-46b7a6508f3c/grid_0.png')`,
             }}
         >
             <LoadingModal loading={loading} setLoading={setLoading} />
